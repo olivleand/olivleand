@@ -6,7 +6,7 @@ My name is Leandro, or you can call me "Leo".
 ☕ Studying Programming in Java
 🚀 Project Developer (beginner) 
 
-## 🚀 Tecnologias que estou estudando
+## 🚀 Tecnologias
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
