@@ -2,7 +2,7 @@
 
 My name is Leandro, or you can call me "Leo". 
 
-💊 Pharmacy student 
+
 ☕ Studying Programming in Java
 🚀 Project Developer (beginner) 
 
